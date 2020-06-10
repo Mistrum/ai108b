@@ -1,4 +1,3 @@
-import math
 import cmath
 
 def root2(a,b,c):
